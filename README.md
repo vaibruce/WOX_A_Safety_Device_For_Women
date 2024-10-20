@@ -14,6 +14,7 @@ The objectives of the device is centered around enhancing personal safety, provi
 It is a device integrated with the ESP EYE, an ESP32-based development board that integrates a digital microphone, an 8 MB PSRAM and a 4 MB flash, while also providing an external 2-Megapixel camera. A voice activated or gesture triggered interface which is highly responsive is added which provides immediate assistance at a time of crisis.The ability to transmit an SOS signal, upload snapshots and also a audio recording in an encrypted format is also included in it.These transmitted images and
 audio in a database serves as a tool to locate the location and gives us a clear understanding of the crime scene, providing a strong evidence.
 
+![image](https://github.com/user-attachments/assets/07abe8f2-cef4-4012-b9be-2a5428060ed3)
 
 
 ## Conclusion
