@@ -1,2 +1,2 @@
-# NMIT_Hacks  WOX
-WOX - A Women Safety Device - Protecting Women, Empowering Change
+# WOX-Protecting Women, Empowering Change
+A women safety device.
